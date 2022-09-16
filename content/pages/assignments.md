@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the two written assignments for the course and
+  examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
